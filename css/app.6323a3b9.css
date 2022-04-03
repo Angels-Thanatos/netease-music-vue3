@@ -1,0 +1,1 @@
+body{overflow-y:hidden;overflow-x:hidden}div::-webkit-scrollbar{width:10px;height:10px}div::-webkit-scrollbar-track{border-radius:2px}div::-webkit-scrollbar-thumb{background:#bfbfbf;border-radius:10px}div::-webkit-scrollbar-thumb:hover{background:#adabab}div::-webkit-scrollbar-corner{background:#179a16}
