@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2073c8"],{a058:function(n,c,e){"use strict";function a(n,c,e,a,o,r){return" 排行榜 "}e.r(c);var o={name:"Rank"},r=e("6b0d"),t=e.n(r);const u=t()(o,[["render",a]]);c["default"]=u}}]);
-//# sourceMappingURL=chunk-2d2073c8.08511971.js.map
